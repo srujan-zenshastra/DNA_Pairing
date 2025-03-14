@@ -20,6 +20,7 @@ This project requires Python 3.x and no additional external libraries. The built
 Run the Python script to generate and display the DNA strands:
 ```python
 python dna_pairing.py
+```
 
 ## Example Output
 Strand1: ['A', 'G', 'T', 'C', 'A', 'C', 'G', 'T', 'G', 'A']
